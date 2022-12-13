@@ -1,0 +1,6 @@
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Tutorials\C#\SelfStudy\CVSTask\bin\Release\net6.0\publish\CVSTask.exe
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Tutorials\C#\SelfStudy\CVSTask\bin\Release\net6.0\publish\CVSTask.dll
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Tutorials\C#\SelfStudy\CVSTask\bin\Release\net6.0\publish\CVSTask.deps.json
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Tutorials\C#\SelfStudy\CVSTask\bin\Release\net6.0\publish\CVSTask.runtimeconfig.json
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Tutorials\C#\SelfStudy\CVSTask\bin\Release\net6.0\publish\CVSTask.pdb
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Tutorials\C#\SelfStudy\CVSTask\bin\Release\net6.0\publish\CsvHelper.dll

@@ -1,0 +1,34 @@
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Tutorials\C#\SelfStudy\CVSTask\bin\Debug\net6.0\CVSTask.exe
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Tutorials\C#\SelfStudy\CVSTask\bin\Debug\net6.0\CVSTask.deps.json
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Tutorials\C#\SelfStudy\CVSTask\bin\Debug\net6.0\CVSTask.runtimeconfig.json
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Tutorials\C#\SelfStudy\CVSTask\bin\Debug\net6.0\CVSTask.dll
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Tutorials\C#\SelfStudy\CVSTask\bin\Debug\net6.0\CVSTask.pdb
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Tutorials\C#\SelfStudy\CVSTask\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Tutorials\C#\SelfStudy\CVSTask\obj\Debug\net6.0\CVSTask.csproj.AssemblyReference.cache
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Tutorials\C#\SelfStudy\CVSTask\obj\Debug\net6.0\CVSTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Tutorials\C#\SelfStudy\CVSTask\obj\Debug\net6.0\CVSTask.AssemblyInfoInputs.cache
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Tutorials\C#\SelfStudy\CVSTask\obj\Debug\net6.0\CVSTask.AssemblyInfo.cs
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Tutorials\C#\SelfStudy\CVSTask\obj\Debug\net6.0\CVSTask.csproj.CoreCompileInputs.cache
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Tutorials\C#\SelfStudy\CVSTask\obj\Debug\net6.0\CVSTask.csproj.CopyComplete
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Tutorials\C#\SelfStudy\CVSTask\obj\Debug\net6.0\CVSTask.dll
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Tutorials\C#\SelfStudy\CVSTask\obj\Debug\net6.0\refint\CVSTask.dll
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Tutorials\C#\SelfStudy\CVSTask\obj\Debug\net6.0\CVSTask.pdb
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Tutorials\C#\SelfStudy\CVSTask\obj\Debug\net6.0\CVSTask.genruntimeconfig.cache
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Tutorials\C#\SelfStudy\CVSTask\obj\Debug\net6.0\ref\CVSTask.dll
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Personal repos\CVSTask\bin\Debug\net6.0\CVSTask.exe
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Personal repos\CVSTask\bin\Debug\net6.0\CVSTask.deps.json
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Personal repos\CVSTask\bin\Debug\net6.0\CVSTask.runtimeconfig.json
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Personal repos\CVSTask\bin\Debug\net6.0\CVSTask.dll
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Personal repos\CVSTask\bin\Debug\net6.0\CVSTask.pdb
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Personal repos\CVSTask\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Personal repos\CVSTask\obj\Debug\net6.0\CVSTask.csproj.AssemblyReference.cache
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Personal repos\CVSTask\obj\Debug\net6.0\CVSTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Personal repos\CVSTask\obj\Debug\net6.0\CVSTask.AssemblyInfoInputs.cache
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Personal repos\CVSTask\obj\Debug\net6.0\CVSTask.AssemblyInfo.cs
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Personal repos\CVSTask\obj\Debug\net6.0\CVSTask.csproj.CoreCompileInputs.cache
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Personal repos\CVSTask\obj\Debug\net6.0\CVSTask.csproj.CopyComplete
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Personal repos\CVSTask\obj\Debug\net6.0\CVSTask.dll
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Personal repos\CVSTask\obj\Debug\net6.0\refint\CVSTask.dll
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Personal repos\CVSTask\obj\Debug\net6.0\CVSTask.pdb
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Personal repos\CVSTask\obj\Debug\net6.0\CVSTask.genruntimeconfig.cache
+C:\Users\OliverDennison\OneDrive - Magway Limited\Desktop\Softwares\Personal repos\CVSTask\obj\Debug\net6.0\ref\CVSTask.dll

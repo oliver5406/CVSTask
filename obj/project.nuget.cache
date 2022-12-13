@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w6i1sMJl3inzFXA5cEc74BtCqbE2gsIw4FFZTchb4wNfJdg7vX43pMdwcj3lCXe1LiW8Iuy+UsrQcCJhzvU/jA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OliverDennison\\OneDrive - Magway Limited\\Desktop\\Softwares\\Personal repos\\CVSTask\\CVSTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OliverDennison\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
